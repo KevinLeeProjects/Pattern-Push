@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CarouselTriangle
+  - CarouselCircle
+  - CarouselSquare
+  - CarouselBomb
+  - CarouselBar
+  - Triangle
+  - Circle
+  - Square
+  - MarginCircle
+  - MarginSquare
+  - MarginTriangle
+  - ClassicTriangle
+  - ClassicCircle
+  - ClassicSquare
+  - ClassicPause
+  - ClassicRestart
+  - ClassicResume
+  - ClassicHome
+  - ClassicSettings
+  - CarouselWord
+  - ClassicWord
+  - MarginsWord
+  - HomeCircle
+  - HomeSquare
+  - HomeTriangle
+  - HomeLeft
+  - HomeRight
+  - HomeBackground
+  - ClassicPauseBackground
+  - CarouselPauseBackground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Layer 8
+  - Layer9
+  - Layer10
+  - Layer11
+  - BackgroundHome
+  - HomeDec
+  - HomeLeft
+  - HomeRight
+  - MarginPause
+  - Layer17
+  - CarouselBomb
+  - CarouselCircle
+  - CarouselSquare
+  - CarouselTriangle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Next Layer
+    uniqueID: 733443299
+    locked: 0
